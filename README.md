@@ -33,9 +33,8 @@ Webcam (built-in or external)
 
 
 Installation
-git clone https://github.com/your-username/cursor_control_using_hand_and_head_gesture.git
+git clone https://github.com/adnanfuzail/cursor_control_using_hand_and_head_gesture.git
 cd cursor_control_using_hand_and_head_gesture
-pip install -r requirements.txt
 
 
 📷 How It Works
