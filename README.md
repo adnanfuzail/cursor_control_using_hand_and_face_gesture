@@ -68,7 +68,5 @@ Support multi-monitor setups
 🙋‍♂️ Contributors
 Adnan Fuzail – Developer
 
-Guided by Dr. Waseem Akhtar – Vishveshwarya Group of Institutions
-
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
